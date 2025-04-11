@@ -33,9 +33,9 @@ Each week should have:
 
 # --- Streamlit UI Starts Here ---
 
-st.set_page_config(page_title="Career GPS", layout="wide")
+st.set_page_config(page_title="SkillMate", layout="wide")
 
-st.title("📍 Career GPS: Your Personalized Career Roadmap")
+st.title("📍 SkillMate: Your Personalized Career Roadmap")
 st.markdown("Welcome! Let's build your custom career roadmap step by step.")
 
 # Section 1: Upload Resume or Enter Skills
